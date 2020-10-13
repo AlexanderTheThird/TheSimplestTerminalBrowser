@@ -3,7 +3,7 @@
 ## О программе
 The Simplest Terminal Browser — это простейший консольный браузер, выдающий отформатированный html-код введённого сайта. Поддерживает теги жирного, курсивного текста, списка.
 
-![Browser](screenshot-browser.jpg)
+![Browser](screenshot-browser.png)
 
 ## Установка
 1. Скопируйте репозиторий, используя `git clone https://github.com/AlexanderTheThird/TheSimplestTerminalBrowser.git`.
